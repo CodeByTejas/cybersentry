@@ -1,5 +1,5 @@
 ### Dashboard Overview
-![Dashboard Overview](./output/result1)
+![Dashboard Overview](./output/result1.jpg)
 # Cybersentry Honeypot Monitoring System
 
 The Honeypot Monitoring System is a real-time monitoring tool designed to detect, visualize, and analyze potential security threats and performance metrics in a secure environment. This system features interactive dashboards, attack visualizations, and detailed metrics tracking.
@@ -117,4 +117,4 @@ The system monitors and displays the following metrics:
 
 ## Result Screenshots
 ### Threat Map
-![Threat Map](./output/result2)
+![Threat Map](./output/result2.jpg)
